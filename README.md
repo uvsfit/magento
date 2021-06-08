@@ -1,1 +1,3 @@
 # magento
+
+Iniciando projeto
